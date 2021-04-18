@@ -2,4 +2,4 @@
 
 ### FILE SYSTEM TASK.
 
-## A start on the server will create a folder named result and file called posts.json.
+## A start server on the script file will write a file type with a content inside the result folder.
